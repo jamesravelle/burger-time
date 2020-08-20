@@ -1,0 +1,40 @@
+body{
+  background: rgb(255,141,0);
+  background: linear-gradient(132deg, rgba(255,141,0,1) 0%, rgba(255,222,0,1) 100%);
+  color:black;
+}
+
+.burger-img{
+  width:80%;
+}
+
+.burger-inner{
+  padding:5%;
+  background-color:white;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.burger{
+  background-color:#FFD064;
+  color:black;
+  padding:10px;
+}
